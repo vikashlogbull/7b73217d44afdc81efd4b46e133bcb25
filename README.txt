@@ -1,4 +1,3 @@
-"Test Branch"
 CONTENTS OF THIS FILE
 ---------------------
 
