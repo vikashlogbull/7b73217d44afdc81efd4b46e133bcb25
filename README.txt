@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
++++For Test+++
++++For Test+++
++++For Test+++
+>>>>>>> master
 CONTENTS OF THIS FILE
 ---------------------
 
